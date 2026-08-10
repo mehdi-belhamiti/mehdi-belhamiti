@@ -13,9 +13,9 @@
 I am a Master 1 Finance student at Paris-Saclay University with a solid academic background in Mathematics, Statistics, and Economics. I am deeply passionate about  **Quantitative Finance** and **Data Science and Machine Learning** techniques.
 
 - 🎓 **Education:** [Master 1 Finance @ Paris-Saclay University](https://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux) | [Double Bachelor's Degree in Mathematics and Economics](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/economie-mathematiques)
-- 💡 **Interests:** Quantitative Finance, Stochastic Calculus, Econometrics, and Machine Learning
-- 🔭 **Currently working on:** Expanding my portfolio with a 100% Machine Learning project applied to financial markets
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mehdi-belhamiti) | [mehdiblm.pro@gmail.com](mailto:mehdiblm.pro@gmail.com)
+-  **Interests :** Quantitative Finance, Stochastic Calculus, Econometrics, and Machine Learning
+-  **Currently working on :** Expanding my portfolio with a 100% Machine Learning project applied to financial markets
+-  **How to reach me :** [LinkedIn](https://www.linkedin.com/in/mehdi-belhamiti) | [mehdiblm.pro@gmail.com](mailto:mehdiblm.pro@gmail.com)
 
 ---
 
@@ -41,7 +41,7 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 - **[Card-Shuffling-Markov-Chains](https://github.com/mehdi-belhamiti/Card-Shuffling-Markov-Chains)** - Mathematical modeling and Python simulation of card shuffling using Markov Chains to determine the optimal mixing time.
 - **[Stochastic-Modeling](https://github.com/mehdi-belhamiti/Stochastic-Modeling-2nd-Year-L2)** - Python simulations exploring case studies via Monte-Carlo methods, including Random Walks, Population Genetics, and Branching Processes.
 
-### 🌍 Econometrics and Data Analysis (R)
+### Econometrics and Data Analysis (R)
 - **[Asylum-Seekers-Econometrics](https://github.com/mehdi-belhamiti/Asylum-Seekers-Econometrics)** - Econometric analysis of asylum seekers' destination choices in Europe using an R-based gravity model with fixed effects.
 
 ---
