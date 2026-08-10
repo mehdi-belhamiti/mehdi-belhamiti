@@ -1,4 +1,4 @@
-# Hi there, I'm Mehdi BELHAMITI 👋
+# Welcome on my GitHub page !
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=200&section=header&text=Quantitative%20Finance%20&%20Machine%20Learning&fontSize=50&fontAlignY=38&desc=Master%201%20Finance%20Student%20@%20Paris-Saclay%20University&descAlignY=51&descAlign=62"/>
@@ -8,7 +8,7 @@
   <img src="https://www.universite-paris-saclay.fr/sites/default/files/media/2019-12/logo-ups.svg" width="220"/>
 </div>
 
-## 🚀 About Me
+## About Me
 
 I am a Master 1 Finance student at Paris-Saclay University with a solid academic background in Mathematics, Statistics, and Economics. I am deeply passionate about  **Quantitative Finance** and **Data Science and Machine Learning** techniques.
 
@@ -34,7 +34,7 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 
 ---
 
-## 📊 Highlighted Projects
+## Highlighted Projects
 
 ### 📈 Quantitative Finance & Stochastic Modeling (Python)
 - **[Option-Pricing-Models-Black-Scholes-vs-Monte-Carlo-Simulations](https://github.com/mehdi-belhamiti/Option-Pricing-Models-Black-Scholes-vs-Monte-Carlo-Simulations)** — Python implementation comparing the analytical Black-Scholes model with Monte-Carlo numerical simulations for pricing European options.
@@ -46,7 +46,7 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/mehdi-belhamiti">
