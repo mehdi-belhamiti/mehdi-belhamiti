@@ -12,7 +12,7 @@
 
 I am a Master 1 Finance student at Paris-Saclay University with a solid academic background in Mathematics, Statistics, and Economics. I am deeply passionate about  **Quantitative Finance** and **Data Science and Machine Learning** techniques.
 
-- 🎓 **Education:** Master 1 Finance @ Paris-Saclay University | Double Bachelor's in Mathematics and Economics
+- 🎓 **Education:** Master 1 Finance @ Paris-Saclay University | Double Bachelor's Degree in Mathematics and Economics
 - 💡 **Interests:** Quantitative Finance, Stochastic Calculus, Econometrics, and Machine Learning
 - 🔭 **Currently working on:** Expanding my portfolio with a 100% Machine Learning project applied to financial markets
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mehdi-belhamiti) | [mehdiblm.pro@gmail.com](mailto:mehdiblm.pro@gmail.com)
