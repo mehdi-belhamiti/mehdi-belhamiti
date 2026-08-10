@@ -20,7 +20,7 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 
 ---
 
-## 💻 Tools and Libraries
+## Tools and Libraries
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
