@@ -36,12 +36,12 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 
 ## Highlighted Projects
 
-### 📈 Quantitative Finance & Stochastic Modeling (Python)
+### 📈 Quantitative Finance and Stochastic Modeling (Python)
 - **[Option-Pricing-Models-Black-Scholes-vs-Monte-Carlo-Simulations](https://github.com/mehdi-belhamiti/Option-Pricing-Models-Black-Scholes-vs-Monte-Carlo-Simulations)** - Python implementation comparing the analytical Black-Scholes model with Monte-Carlo numerical simulations for pricing European options.
 - **[Card-Shuffling-Markov-Chains](https://github.com/mehdi-belhamiti/Card-Shuffling-Markov-Chains)** - Mathematical modeling and Python simulation of card shuffling using Markov Chains to determine the optimal mixing time.
-- **[Stochastic-Modeling](https://github.com/mehdi-belhamiti)** - Python simulations exploring case studies via Monte-Carlo methods, including Random Walks, Population Genetics, and Branching Processes.
+- **[Stochastic-Modeling](https://github.com/mehdi-belhamiti/Stochastic-Modeling-2nd-Year-L2)** - Python simulations exploring case studies via Monte-Carlo methods, including Random Walks, Population Genetics, and Branching Processes.
 
-### 🌍 Econometrics & Data Analysis (R)
+### 🌍 Econometrics and Data Analysis (R)
 - **[Asylum-Seekers-Econometrics](https://github.com/mehdi-belhamiti/Asylum-Seekers-Econometrics)** - Econometric analysis of asylum seekers' destination choices in Europe using an R-based gravity model with fixed effects.
 
 ---
