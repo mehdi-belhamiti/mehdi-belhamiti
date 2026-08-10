@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Master 1 Finance student at Paris-Saclay University with a solid academic background in Mathematics, Statistics, and Economics. I am deeply passionate about  **Quantitative Finance** and **Data Science and Machine Learning** techniques.
+I am a Master 1 Finance student at Paris-Saclay University with a solid academic background in Mathematics, Statistics, and Economics. I am deeply passionate about  **Quantitative Finance**, **Data Science and Machine Learning** techniques.
 
 -  **Education:** [Master 1 Finance @ Paris-Saclay University](https://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux) | [Double Bachelor's Degree in Mathematics and Economics](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/economie-mathematiques)
 
