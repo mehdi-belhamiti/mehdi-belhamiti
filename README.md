@@ -47,9 +47,11 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 
 ---
 
-## GitHub Stats
+##  GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdi-belhamiti&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mehdi-belhamiti)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-belhamiti&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mehdi-belhamiti)
+[![Metrics](https://metrics.lecoq.io/mehdi-belhamiti?template=classic&config.timezone=Europe%2FParis)](https://github.com/mehdi-belhamiti)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehdi-belhamiti&theme=tokyonight&hide_border=true)](https://github.com/mehdi-belhamiti)
+
 
