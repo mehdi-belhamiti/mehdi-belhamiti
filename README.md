@@ -49,8 +49,10 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 
 ##  GitHub Stats
 
-<div align="center">
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehdi-belhamiti&theme=tokyonight&hide_border=true)](https://github.com/mehdi-belhamiti)
-</div>
+<p align="center">
+  <a href="https://github.com/mehdi-belhamiti">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-belhamiti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 
