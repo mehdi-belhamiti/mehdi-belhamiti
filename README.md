@@ -52,11 +52,11 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats-blue-zeta-71.vercel.app/api?username=mehdi-belhamiti&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&icon_color=60efff&title_color=1157AB&text_color=c9d1d9" />
-  <img height="165em" src="https://github-readme-stats-blue-zeta-71.vercel.app/api/top-langs/?username=mehdi-belhamiti&layout=compact&theme=transparent&hide_border=true&title_color=60efff&text_color=c9d1d9" />
+  <img height="165em" src="https://github-readme-stats-blue-zeta-71.vercel.app/api/top-langs/?username=mehdi-belhamiti&layout=compact&theme=transparent&hide_border=true&title_color=1157AB&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mehdi-belhamiti&hide_border=true&background=00000000&ring=60efff&fire=60efff&currStreakLabel=60efff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=848d97" />
+  <img src="https://streak-stats.demolab.com/?user=mehdi-belhamiti&hide_border=true&background=00000000&ring=1157AB&fire=1157AB&currStreakLabel=1157AB&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=848d97" />
 </p>
 
 
