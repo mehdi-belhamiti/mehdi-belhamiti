@@ -57,3 +57,9 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mehdi-belhamiti&theme=tokyonight&hide_border=true" />
 </p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60efff,100:0061ff&height=100&section=footer" />
+
+</div>
