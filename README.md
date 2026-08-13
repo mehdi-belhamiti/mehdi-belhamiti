@@ -52,6 +52,8 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 <p align="center">
   <img height="165em" src="https://github-readme-stats-blue-zeta-71.vercel.app/api?username=mehdi-belhamiti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165em" src="https://github-readme-stats-blue-zeta-71.vercel.app/api/top-langs/?username=mehdi-belhamiti&layout=compact&theme=tokyonight&hide_border=true" />
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=mehdi-belhamiti&theme=tokyonight&hide_border=true" />
-</p><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:60efff,100:0061ff&height=100&section=footer" /></div>
+</p>
