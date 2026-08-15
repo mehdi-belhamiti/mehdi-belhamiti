@@ -6,12 +6,16 @@
 </div>
 
 <div align="center">
-  <img src="https://www.universite-paris-saclay.fr/sites/default/files/media/2019-12/logo-ups.svg" width="220"/>
+  <img src="https://www.universite-paris-saclay.fr/sites/default/files/media/2019-12/logo-ups.svg" width="220" alt="Logo Paris-Saclay" />
 </div>
 
-<img width="959" height="1058" alt="image" src="https://github.com/user-attachments/assets/2f31917e-faae-4988-bf8a-26155995a453" />
+<br>
 
-<img width="959" height="1058" alt="image" src="https://github.com/user-attachments/assets/c4ee0d23-a853-4d79-8beb-4b241f7a7767" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2f31917e-faae-4988-bf8a-26155995a453" width="200" alt="badge 1" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c4ee0d23-a853-4d79-8beb-4b241f7a7767" width="200" alt="badge 2" />
+</div>
 
 
 ## About Me
