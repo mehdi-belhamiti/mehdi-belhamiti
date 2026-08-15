@@ -9,6 +9,11 @@
   <img src="https://www.universite-paris-saclay.fr/sites/default/files/media/2019-12/logo-ups.svg" width="220"/>
 </div>
 
+<img width="959" height="1058" alt="image" src="https://github.com/user-attachments/assets/2f31917e-faae-4988-bf8a-26155995a453" />
+
+<img width="959" height="1058" alt="image" src="https://github.com/user-attachments/assets/c4ee0d23-a853-4d79-8beb-4b241f7a7767" />
+
+
 ## About Me
 
 I am a Master 1 Finance student at Paris-Saclay University with a solid academic background in Mathematics, Statistics, and Economics. I am deeply passionate about  **Quantitative Finance**, **Data Science and Machine Learning** techniques.
