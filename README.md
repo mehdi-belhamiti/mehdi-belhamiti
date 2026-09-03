@@ -52,7 +52,7 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 - **[Card-Shuffling-Markov-Chains](https://github.com/mehdi-belhamiti/Card-Shuffling-Markov-Chains)** - Mathematical modeling and Python simulation of card shuffling using Markov Chains to determine the optimal mixing time.
 - **[Stochastic-Modeling](https://github.com/mehdi-belhamiti/Stochastic-Modeling-2nd-Year-L2)** - Python simulations exploring case studies via Monte-Carlo methods, including Random Walks, Population Genetics, and Branching Processes.
 
-### Econometrics and Data Analysis (R)
+### Econometrics and Data Analysis in R
 - **[Asylum-Seekers-Econometrics](https://github.com/mehdi-belhamiti/Asylum-Seekers-Econometrics)** - Econometric analysis of asylum seekers' destination choices in Europe using an R-based gravity model with fixed effects.
 
 ---
