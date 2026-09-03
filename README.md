@@ -47,7 +47,7 @@ I am a Master 1 Finance student at Paris-Saclay University with a solid academic
 
 ## Highlighted Projects
 
-### 📈 Quantitative Finance and Stochastic Modeling (Python)
+### Quantitative Finance and Stochastic Modeling in Python
 - **[Option-Pricing-Models-Black-Scholes-vs-Monte-Carlo-Simulations](https://github.com/mehdi-belhamiti/Option-Pricing-Models-Black-Scholes-vs-Monte-Carlo-Simulations)** - Python implementation comparing the analytical Black-Scholes model with Monte-Carlo numerical simulations for pricing European options.
 - **[Card-Shuffling-Markov-Chains](https://github.com/mehdi-belhamiti/Card-Shuffling-Markov-Chains)** - Mathematical modeling and Python simulation of card shuffling using Markov Chains to determine the optimal mixing time.
 - **[Stochastic-Modeling](https://github.com/mehdi-belhamiti/Stochastic-Modeling-2nd-Year-L2)** - Python simulations exploring case studies via Monte-Carlo methods, including Random Walks, Population Genetics, and Branching Processes.
