@@ -22,7 +22,7 @@
 
 I am a Master 1 Finance student at Paris-Saclay University with a solid academic background in Mathematics, Statistics, and Economics. I am deeply passionate about  **Quantitative Finance**, **Data Science and Machine Learning** techniques.
 
--  **Education:** [Master 1 Finance @ Paris-Saclay University](https://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux) | [Double Bachelor's Degree in Mathematics and Economics](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/economie-mathematiques)
+-  **Education :** [Master 1 Finance @ Paris-Saclay University](https://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux) | [Double Bachelor's Degree in Mathematics and Economics](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/economie-mathematiques)
 
 -  **Interests :** Quantitative Finance, Stochastic Calculus, Econometrics, and Machine Learning
 -  **Currently working on : [Hierarchical-Risk-Parity-Portfolio-Optimization](https://github.com/mehdi-belhamiti/Hierarchical-Risk-Parity-Python)**
