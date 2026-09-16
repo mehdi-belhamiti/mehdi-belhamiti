@@ -12,9 +12,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2f31917e-faae-4988-bf8a-26155995a453" width="130" alt="badge 1" />
+  <img src="https://github.com/user-attachments/assets/a2338573-b87e-4d6d-ac23-462ec66bcac6" width="130" alt="badge 1" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/c4ee0d23-a853-4d79-8beb-4b241f7a7767" width="130" alt="badge 2" />
+  <img src="https://github.com/user-attachments/assets/5678011d-ca03-4295-97eb-4f4e0a954c88"
+width="130" alt="badge 2" />
 </div>
 
 
