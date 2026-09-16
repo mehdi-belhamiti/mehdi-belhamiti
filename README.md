@@ -12,10 +12,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a2338573-b87e-4d6d-ac23-462ec66bcac6" width="130" alt="badge 1" />
+  <img src="https://github.com/user-attachments/assets/a2338573-b87e-4d6d-ac23-462ec66bcac6" width="200" alt="badge 1" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/5678011d-ca03-4295-97eb-4f4e0a954c88"
-width="130" alt="badge 2" />
+width="200" alt="badge 2" />
 </div>
 
 
